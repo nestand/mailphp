@@ -15,10 +15,8 @@
 		<form method="post" action="">
 			<label for="lastName">Nom : </label>
 			<input type="text" id="lastName" name="nom" required /><br/>
-			<label for="firstName">Prénom : </label>
-			<input type="text" id="firstName" name="prenom" required /><br/>
-			<label for="tel">Numéro de téléphone : </label>
-			<input type="text" id="tel" name="tel" required /><br/>
+			<label for="firstName">Votre message : </label>
+			<input type="text" id="message" name="message" required /><br/>
 			<button type="submit">Valider</button>
 	
 		</form>
